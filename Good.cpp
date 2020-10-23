@@ -7,5 +7,5 @@ int main() {
     cout << "3rd line" << endl;
     cout << "Add a line on GitHub" << endl;
     cout << "Minic the operatoin of A and B." << endl;
-    
+    cout << "again minic the operation of A and B." << endl;
 }
