@@ -8,4 +8,5 @@ int main() {
     cout << "Add a line on GitHub" << endl;
     cout << "Minic the operatoin of A and B." << endl;
     cout << "again minic the operation of A and B." << endl;
+    cout << "test 3: try to create a conflict in A." << endl;
 }
