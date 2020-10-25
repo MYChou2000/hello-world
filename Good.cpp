@@ -12,5 +12,7 @@ int main() {
     cout << "test 3: try to create a conflict in A." << endl;
 
     cout << "test 3: create a conflict as B." << endl;
+    cout << "Simulate unable to pull status." << endl;
+    cout << "On my PC." << endl;
 
 }
