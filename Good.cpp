@@ -16,5 +16,9 @@ int main() {
 
     cout << "test 3: create a conflict as B." << endl;
     
+<<<<<<< HEAD
+=======
+    cout << "simulate unable to pull for web." << endl;
+>>>>>>> 6602dba72e245c3b4e6b6a2ebddc39e5acf9c597
 
 }
