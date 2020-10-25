@@ -17,5 +17,7 @@ int main() {
     cout << "test 3: create a conflict as B." << endl;
     
     cout << "simulate unable to pull for web." << endl;
+    
+    cout << "create a branch." << endl;
 
 }
