@@ -18,11 +18,13 @@ int main() {
     
     cout << "simulate unable to pull for web." << endl;
     
-<<<<<<< Updated upstream
+
     cout << "simulate to merge a branch." << endl;
     cout << "locker" << endl;
-=======
+
     cout << "create a branch." << endl;
->>>>>>> Stashed changes
+    
+    cout << "2nd, revised." << endl;
+
 
 }
