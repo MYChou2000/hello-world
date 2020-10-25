@@ -18,6 +18,7 @@ int main() {
     
     cout << "simulate unable to pull for web." << endl;
     
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     cout << "create a branch." << endl;
 =======
@@ -28,5 +29,13 @@ int main() {
     cout << "create a branch." << endl;
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
 
+    cout << "simulate to merge a branch." << endl;
+    cout << "locker" << endl;
+>>>>>>> Stashed changes
+
+    cout << "create a branch." << endl;
+    
+    cout << "saved in a branch." << endl;
 }
