@@ -24,5 +24,7 @@ int main() {
 
     cout << "create a branch." << endl;
     
+    cout << "test merge a branch" << endl;
+    
     cout << "saved in a branch." << endl;
 }
