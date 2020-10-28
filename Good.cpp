@@ -29,4 +29,7 @@ int main() {
     cout << "saved in a branch." << endl;
     
     cout << "test pull without committing." << endl;
+    
+    cout << "on pc: merge the temp1 and master successful." << endl;
+    
 }
