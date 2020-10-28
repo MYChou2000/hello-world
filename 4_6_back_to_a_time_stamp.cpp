@@ -6,6 +6,6 @@ int main() {
     cout << "I go to fetch a coke." << endl;
     cout << "I go out to buy lunch box." << enld;
     cout << "I go out to dump the garbage." << endl;
-    
+ 
    
 }
